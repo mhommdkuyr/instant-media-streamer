@@ -1,0 +1,21 @@
+# Environment & Local
+.env
+.env.local
+.env.*.local
+*.pyc
+__pycache__/
+.pytest_cache/
+venv/
+.venv/
+
+# Node & Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Logs & Databases
+*.log
+*.sqlite
+*.db
